@@ -26,12 +26,12 @@
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
-              <caret line="83" column="37" lean-forward="false" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
+              <caret line="83" column="33" lean-forward="false" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
               <folding>
-                <marker date="1578887623226" expanded="true" signature="30:73" ph="..." />
-                <marker date="1578887623226" expanded="true" signature="1832:1846" ph="..." />
-                <marker date="1578887623226" expanded="true" signature="1920:1936" ph="..." />
-                <marker date="1578887623226" expanded="true" signature="2043:2062" ph="..." />
+                <marker date="1578893471223" expanded="true" signature="30:73" ph="..." />
+                <marker date="1578893471223" expanded="true" signature="1832:1846" ph="..." />
+                <marker date="1578893471223" expanded="true" signature="1920:1936" ph="..." />
+                <marker date="1578893471223" expanded="true" signature="2043:2062" ph="..." />
               </folding>
             </state>
           </provider>
@@ -161,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578882944989</updated>
-      <workItem from="1578882946324" duration="1407000" />
+      <workItem from="1578882946324" duration="1921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1407000" />
+    <option name="totallyTimeSpent" value="1921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="924" y="7" width="1006" height="1031" extended-state="0" />
@@ -216,12 +216,12 @@
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="83" column="37" lean-forward="false" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
+          <caret line="83" column="33" lean-forward="false" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
           <folding>
-            <marker date="1578887623226" expanded="true" signature="30:73" ph="..." />
-            <marker date="1578887623226" expanded="true" signature="1832:1846" ph="..." />
-            <marker date="1578887623226" expanded="true" signature="1920:1936" ph="..." />
-            <marker date="1578887623226" expanded="true" signature="2043:2062" ph="..." />
+            <marker date="1578893471223" expanded="true" signature="30:73" ph="..." />
+            <marker date="1578893471223" expanded="true" signature="1832:1846" ph="..." />
+            <marker date="1578893471223" expanded="true" signature="1920:1936" ph="..." />
+            <marker date="1578893471223" expanded="true" signature="2043:2062" ph="..." />
           </folding>
         </state>
       </provider>
